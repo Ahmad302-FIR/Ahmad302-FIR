@@ -73,11 +73,11 @@ Proper README and structured code
 
 📫 Connect With Me
 
-🐙 GitHub: https://github.com/your-username
+🐙 GitHub: https://github.com/Ahmad302-FIR/Ahmad302-FIR
 
-💼 LinkedIn: (add when ready)
+💼 LinkedIn: (https://www.linkedin.com/in/muhammad-ahmed-6867a5370)
 
-📧 Email: your-email@example.com
+📧 Email: 1ahmad2khan345@gmail.com
 
 ⭐ Thanks for visiting my profile!
 Feel free to explore my repositories and ⭐ star them if you find them helpful.
